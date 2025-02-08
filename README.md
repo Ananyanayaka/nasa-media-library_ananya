@@ -22,10 +22,10 @@ nasa-media-library/
 
 >>   README.md               # Project documentation
 
----
-
-## Setup Instructions
-
+```
+### Setup Instructions
+```
+```
 ### Frontend Setup (React)
 
 1. **Navigate to the frontend folder:**
