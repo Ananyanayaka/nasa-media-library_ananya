@@ -13,7 +13,6 @@ nasa-media-library/
 │   ├── server.js           # API server for backend
 │   ├── package.json        # Backend dependencies and scripts
 │   ├── .env                # Environment variables (e.g., API keys)
-│   └── .gitignore           # Git ignore file for backend
 ├── frontend/
 │   ├── public/
 │   │   └── index.html      # HTML file for React app
@@ -22,7 +21,6 @@ nasa-media-library/
 │   │   ├── App.css         # App styling
 │   │   ├── index.js        # Entry point for React app
 │   └── package.json        # Frontend dependencies and scripts
-├── .gitignore              # Git ignore file for the project
 └── README.md               # Project documentation
 ```
 
