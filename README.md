@@ -132,12 +132,17 @@ nasa-media-library/
 ---
 
 
-## **Backend view if server running succesfully:**
-![alt text](image-1.png)
+## **To verify if your backend server is running successfully:**
 
+     ```bash
+    Server is running on http://localhost:5000
+     ```
+
+![alt text](image-1.png)
+   - If the server starts successfully, you should see a message in the terminal indicating the server is up and running.
 ---      
 
-## **this is how it looks once it launches**
+## **This is how it looks once it launches**
 ![alt text](image-2.png)
 
 ---
