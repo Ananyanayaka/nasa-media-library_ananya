@@ -129,14 +129,24 @@ nasa-media-library/
 ## **Front end view if its sucesfull:**
 ![alt text](image.png)
 
+---
+
 
 ## **Backend view if server running succesfully:**
 ![alt text](image-1.png)
 
+---      
+
 ## **this is how it looks once it launches**
 ![alt text](image-2.png)
 
-you can search for mars moon or any data from NASA it will featch and display on the page 
+---
+
+ - you can search for mars moon or any data from NASA it will featch and display on the page .
+
+---
+
+
 
 
 
