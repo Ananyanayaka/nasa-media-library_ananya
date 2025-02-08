@@ -1,6 +1,3 @@
-
-
-
 # NASA Media Library Web App
 
 A full-stack web application that allows users to search for and view images and videos from NASA's Image and Video Library API. This project uses **React** for the frontend and **Node.js** with **Express** for the backend.
@@ -9,20 +6,21 @@ A full-stack web application that allows users to search for and view images and
 
 ```
 nasa-media-library/
-├── backend/
-│   ├── server.js           # API server for backend
-│   ├── package.json        # Backend dependencies and scripts
-│   ├── .env                # Environment variables (e.g., API keys)
-├── frontend/
-│   ├── public/
-│   │   └── index.html      # HTML file for React app
-│   ├── src/
-│   │   ├── App.js          # Main React component
-│   │   ├── App.css         # App styling
-│   │   ├── index.js        # Entry point for React app
-│   └── package.json        # Frontend dependencies and scripts
-└── README.md               # Project documentation
-```
+>> backend/
+      1.server.js           # API server for backend
+      2.package.json        # Backend dependencies and scripts
+      3. .env                # Environment variables (e.g., API keys)
+
+>>  frontend/
+      1. public/
+            1.1 index.html      # HTML file for React app
+      2.src/
+            2.1App.js          # Main React component
+            2.2App.css         # App styling
+            2.3index.js        # Entry point for React app
+        3. package.json        # Frontend dependencies and scripts
+
+>>   README.md               # Project documentation
 
 ---
 
