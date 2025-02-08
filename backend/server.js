@@ -6,14 +6,10 @@ require('dotenv').config();
 
 const app = express();
 const port = 5000;
-
-// Middleware
 app.use(cors());
-
-// NASA API endpoint
+// NASA API 
 const NASA_API_URL = 'https://images-api.nasa.gov/search';
 
-// Route to get NASA media based on a search query
 app.get('/api/nasa-media', async (req, res) => {
   const query = req.query.query;
   if (!query) {
@@ -33,7 +29,6 @@ app.get('/api/nasa-media', async (req, res) => {
   }
 });
 
-// Start the server
 app.listen(port, () => {
   console.log(`Server running on http://localhost:${port}`);
 });
