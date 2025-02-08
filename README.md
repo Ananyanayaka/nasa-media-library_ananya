@@ -36,10 +36,6 @@ nasa-media-library/
 
    Open a terminal and go to the `frontend` directory:
 
-   ```bash
-   cd frontend
-   ```
-
 2. **Install dependencies:**
 
    Run the following commands to install the necessary packages:
@@ -65,10 +61,6 @@ nasa-media-library/
 1. **Navigate to the backend folder:**
 
    In your terminal, move to the `backend` directory:
-
-   ```bash
-   cd backend
-   ```
 
 2. **Install dependencies:**
 
@@ -130,29 +122,30 @@ nasa-media-library/
 ![alt text](image.png)
 
 ---
+- If everything is working correctly, you should see output like this in the terminal
+- This indicates that the React development server is up and running on http://localhost:3000..
+
+---
 
 
-## **To verify if your backend server is running successfully:**
-
-     ```bash
-    Server is running on http://localhost:5000
-     ```
-
+## **Backend view if server running succesfully:**
 ![alt text](image-1.png)
-   - If the server starts successfully, you should see a message in the terminal indicating the server is up and running.
----      
 
-## **This is how it looks once it launches**
+--- 
+- If the server starts without any errors, you should see an output similar to this in the terminal:
+- If the server is running properly, you should see a default response, such as a message or a simple confirmation that the server is up and running.
+
+---     
+
+## **Frontend View After Launch**
 ![alt text](image-2.png)
 
 ---
 
- - you can search for mars moon or any data from NASA it will featch and display on the page .
+ - A search input field where users can type in a keyword (e.g., "Mars", "Apollo 11", "NASA missions") .
+ - A search button next to the input field to trigger the search
 
 ---
-
-
-
 
 
 
